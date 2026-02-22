@@ -218,7 +218,6 @@ int main()
     else
         std::cout << "\n*** " << enemy.getName() << " wins. You were defeated. ***\n";
 
-
     return 0;
 
 }
